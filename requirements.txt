@@ -1,0 +1,9 @@
+fog
+aws-sdk
+riemann-client
+trollop
+parallel
+
+
+
+
